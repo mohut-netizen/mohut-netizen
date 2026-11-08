@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+💬I am an aspiring Software Developer passionate about programming cool apps, whether they be useful software
+or fun games. I have experience with Java as well as basic C# through Unity game development.
+
+🌱I look forward to learning more programming best practices to build great software!
+
 <!--
 **mohut-netizen/mohut-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
