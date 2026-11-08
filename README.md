@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-💬I am an aspiring Software Developer passionate about programming cool apps, whether they be useful software
+💬About me: I am an aspiring Software Developer passionate about programming cool apps, whether they be useful software
 or fun games. I have experience with Java as well as basic C# through Unity game development.
 
-🌱I look forward to learning more programming best practices to build great software!
+🌱Goals: I look forward to learning more programming best practices to build great software!
+
+🔭Future projects: I hope to continue working on my Brick Breaker game and eventually add an elemental reaction system. I also look forward to working on new programming projects soon, such as a simple shopping app or even an alarm app that I could use myself🤔
 
 <!--
 **mohut-netizen/mohut-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
